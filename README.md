@@ -1,1 +1,2 @@
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmaffett&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/timmaffett/github-readme-stats)
+![Tim's GitHub stats](https://github-readme-stats-fork-brown.vercel.app/api?username=timmaffett&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Tim's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=timmaffett&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&fire=57A6FF&ring=2DA042&sideLabels=2DA042&sideNums=52a7ff&background=151515&dates=9f9f9f)
